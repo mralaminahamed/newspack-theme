@@ -1,3 +1,17 @@
+# [2.1.0](https://github.com/Automattic/newspack-theme/compare/v2.0.1...v2.1.0) (2024-10-28)
+
+
+### Features
+
+* add disabled styles ([#2386](https://github.com/Automattic/newspack-theme/issues/2386)) ([2f4d5a7](https://github.com/Automattic/newspack-theme/commit/2f4d5a7c7117d91c2a0eb09784ce599a6948a1c3))
+
+# [2.1.0-alpha.1](https://github.com/Automattic/newspack-theme/compare/v2.0.1...v2.1.0-alpha.1) (2024-10-14)
+
+
+### Features
+
+* add disabled styles ([#2386](https://github.com/Automattic/newspack-theme/issues/2386)) ([2f4d5a7](https://github.com/Automattic/newspack-theme/commit/2f4d5a7c7117d91c2a0eb09784ce599a6948a1c3))
+
 # [2.1.0-epic-ras-acc.4](https://github.com/Automattic/newspack-theme/compare/v2.1.0-epic-ras-acc.3...v2.1.0-epic-ras-acc.4) (2024-10-10)
 
 
@@ -5,13 +19,6 @@
 
 * add disabled styles ([#2386](https://github.com/Automattic/newspack-theme/issues/2386)) ([2f4d5a7](https://github.com/Automattic/newspack-theme/commit/2f4d5a7c7117d91c2a0eb09784ce599a6948a1c3))
 
-# [2.1.0-epic-ras-acc.3](https://github.com/Automattic/newspack-theme/compare/v2.1.0-epic-ras-acc.2...v2.1.0-epic-ras-acc.3) (2024-09-18)
-
-### Bug Fixes
-
-* allow active My Account links to be clicked ([#2376](https://github.com/Automattic/newspack-theme/issues/2376)) ([99e0509](https://github.com/Automattic/newspack-theme/commit/99e0509b2e00fc45bf3b2963c89fd638fe118d26))
-* avoid warnings ([#2367](https://github.com/Automattic/newspack-theme/issues/2367)) ([5218a12](https://github.com/Automattic/newspack-theme/commit/5218a1284f2dc1c66e9723dc42915d8afd9aab94))
-* downgrade octokit version to v20 ([#2370](https://github.com/Automattic/newspack-theme/issues/2370)) ([5ac4510](https://github.com/Automattic/newspack-theme/commit/5ac451004e64b1df14439218eedc74610f358540))
 
 ## [2.0.1](https://github.com/Automattic/newspack-theme/compare/v2.0.0...v2.0.1) (2024-10-08)
 
@@ -28,6 +35,16 @@
 ### Bug Fixes
 
 * allow active My Account links to be clicked ([#2376](https://github.com/Automattic/newspack-theme/issues/2376)) ([99e0509](https://github.com/Automattic/newspack-theme/commit/99e0509b2e00fc45bf3b2963c89fd638fe118d26))
+* avoid warnings ([#2367](https://github.com/Automattic/newspack-theme/issues/2367)) ([5218a12](https://github.com/Automattic/newspack-theme/commit/5218a1284f2dc1c66e9723dc42915d8afd9aab94))
+* downgrade octokit version to v20 ([#2370](https://github.com/Automattic/newspack-theme/issues/2370)) ([5ac4510](https://github.com/Automattic/newspack-theme/commit/5ac451004e64b1df14439218eedc74610f358540))
+
+# [2.1.0-epic-ras-acc.3](https://github.com/Automattic/newspack-theme/compare/v2.1.0-epic-ras-acc.2...v2.1.0-epic-ras-acc.3) (2024-09-18)
+
+
+### Bug Fixes
+
+* allow active My Account links to be clicked ([#2376](https://github.com/Automattic/newspack-theme/issues/2376)) ([99e0509](https://github.com/Automattic/newspack-theme/commit/99e0509b2e00fc45bf3b2963c89fd638fe118d26))
+
 
 ## [2.0.1-alpha.1](https://github.com/Automattic/newspack-theme/compare/v2.0.0...v2.0.1-alpha.1) (2024-08-30)
 

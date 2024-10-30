@@ -52,10 +52,10 @@
 		"lint-staged": "^15.2.10",
 		"newspack-scripts": "^5.5.2",
 		"npm-run-all": "^4.1.5",
-		"postcss-focus-within": "^9.0.0",
+		"postcss-focus-within": "^9.0.1",
 		"postcss-scss": "^4.0.9",
 		"rtlcss": "^4.3.0",
-		"sass": "^1.80.3"
+		"sass": "^1.80.4"
 	},
 	"overrides": {
 		"terser-webpack-plugin": {
