@@ -1,3 +1,38 @@
+# [2.2.0](https://github.com/Automattic/newspack-theme/compare/v2.1.1...v2.2.0) (2024-11-12)
+
+
+### Bug Fixes
+
+* add parent theme to child theme description ([#2404](https://github.com/Automattic/newspack-theme/issues/2404)) ([a75b13b](https://github.com/Automattic/newspack-theme/commit/a75b13b19c4e3db2aa4679ed7c2ae0bca074305c))
+
+
+### Features
+
+* trigger release ([3309033](https://github.com/Automattic/newspack-theme/commit/3309033012b374aca6e2f10378fdc43f489626d4))
+
+## [2.1.2-hotfix-add-parent-theme.1](https://github.com/Automattic/newspack-theme/compare/v2.1.1...v2.1.2-hotfix-add-parent-theme.1) (2024-11-12)
+
+
+### Bug Fixes
+
+* add parent theme to child theme description ([a300c60](https://github.com/Automattic/newspack-theme/commit/a300c605e7df730e168eaffe5b641c44f870ec62))
+
+## [2.1.1](https://github.com/Automattic/newspack-theme/compare/v2.1.0...v2.1.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* merge pull request [#2398](https://github.com/Automattic/newspack-theme/issues/2398) from Automattic/trunk ([dc50674](https://github.com/Automattic/newspack-theme/commit/dc506747b204479959ff55b45013d85df3cd841a))
+* update theme descriptions and do not strip from style.css files ([#2401](https://github.com/Automattic/newspack-theme/issues/2401)) ([28770e0](https://github.com/Automattic/newspack-theme/commit/28770e0d011bc28df4d33200caf961ac2fbda07b))
+
+## [2.1.1-alpha.1](https://github.com/Automattic/newspack-theme/compare/v2.1.0...v2.1.1-alpha.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* merge pull request [#2398](https://github.com/Automattic/newspack-theme/issues/2398) from Automattic/trunk ([dc50674](https://github.com/Automattic/newspack-theme/commit/dc506747b204479959ff55b45013d85df3cd841a))
+* update theme descriptions and do not strip from style.css files ([#2401](https://github.com/Automattic/newspack-theme/issues/2401)) ([28770e0](https://github.com/Automattic/newspack-theme/commit/28770e0d011bc28df4d33200caf961ac2fbda07b))
+
 # [2.1.0](https://github.com/Automattic/newspack-theme/compare/v2.0.1...v2.1.0) (2024-10-28)
 
 
